@@ -21,6 +21,20 @@ or
 
 * [Try Ruby - Codeschool](http://www.codeschool.com/courses/try-ruby)
 
+* [The ruby reading list](http://www.informit.com/articles/article.aspx?p=1759889&WT.mc_id=IT_NL_Content_2011_10_17)
+
+* [Ruby monk](http://rubymonk.com/)
+
+* [Learn ruby the hard way](http://ruby.learncodethehardway.org/)
+
+* [Rubyist](http://rubyist.info/)
+
+* Everyday scripting with ruby (eBook)
+
+* Pixaxe ruby book (eBook)
+
+* [Codeschool rails for zombies](http://railsforzombies.org/levels/2)
+
 ### Rails
 
 1. [Rails for Zombies - Codeschool](http://www.codeschool.com/courses/rails-for-zombies-redux)
