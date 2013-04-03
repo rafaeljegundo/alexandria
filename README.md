@@ -50,8 +50,13 @@ Nice to have
 
 [Chrome DevTools](http://www.codeschool.com/courses/discover-devtools)
 
-**Todo**
 
+
+### Intro to project management flows
+
+[Agile Product Ownership in a Nutshel] (http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell)
+
+**Todo**
 * Advanced resources of git, ruby, rails, python, django.
 * Stack for TDD, CI and Code quality
 * Deployment
