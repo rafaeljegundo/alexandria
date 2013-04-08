@@ -8,6 +8,8 @@ This is just a quick collection of links. Probably there are resources better th
 
 * [Try Git](http://www.codeschool.com/courses/try-git)
 
+* [Understanding Git conceptually](http://www.sbf5.com/~cduan/technical/git/)
+
 ### HTML/CSS
 
 1. [Beginners Guide to HTML/CSS](http://learn.shayhowe.com/)
@@ -54,7 +56,8 @@ Nice to have
 
 ### Intro to project management flows
 
-[Agile Product Ownership in a Nutshel] (http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell)
+* [Agile Product Ownership in a Nutshel](http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell)
+* [Github Flow](http://scottchacon.com/2011/08/31/github-flow.html)
 
 **Todo**
 * Advanced resources of git, ruby, rails, python, django.
