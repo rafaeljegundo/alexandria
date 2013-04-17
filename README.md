@@ -42,6 +42,9 @@ or
 1. [Rails for Zombies - Codeschool](http://www.codeschool.com/courses/rails-for-zombies-redux)
 2. [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
 
+**Intermediate**
+1. [Making a gem](http://blog.teamtreehouse.com/how-to-build-a-ruby-gem-with-guest-sam-soffes)
+
 ### jQuery 
 
 * [Try jQuery - Codeschool](http://www.codeschool.com/courses/try-jquery)
