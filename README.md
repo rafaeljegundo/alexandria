@@ -43,7 +43,10 @@ or
 2. [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)
 
 **Intermediate**
+
 1. [Making a gem](http://blog.teamtreehouse.com/how-to-build-a-ruby-gem-with-guest-sam-soffes)
+2. [Understanding the heart to become a better doctor (Testing)](http://blog.zamith.pt/blog/2013/04/10/understanding-the-heart-to-become-a-better-doctor/)
+3. [Test-Driven Rails](https://learn.thoughtbot.com/purchases/d27fb3e007037d4ef543caf84d87ecc7)
 
 ### jQuery 
 
