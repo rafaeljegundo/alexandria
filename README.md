@@ -56,8 +56,9 @@ or
 
 Nice to have
 
-[Chrome DevTools](http://www.codeschool.com/courses/discover-devtools)
-[Sublime Text 2 - setup](http://blog.alexmaccaw.com/sublime-text)
+* [Chrome DevTools](http://www.codeschool.com/courses/discover-devtools)
+* [Sublime Text 2 - setup](http://blog.alexmaccaw.com/sublime-text)
+* [Sublime Text 2 - other setup](https://github.com/mhartl/rails_tutorial_sublime_text)
 
 ### Intro to project management flows
 
